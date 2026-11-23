@@ -3,6 +3,11 @@
 ## Project Overview
 An end-to-end operational and financial analysis of **2,400 e-commerce orders (2024–2026)** across 6 relational tables (`Orders`, `Customers`, `Products`, `Shipping`, `Couriers`, and `Returns`). Built independently in both **Microsoft Excel** and **Power BI** with **100% metric reconciliation** across both tools.
 
+## Project Files (Click to View or Download)
+* **Power BI Dashboard:** [Ecommerce_Dashboard.pbix](Ecommerce_Dashboard.pbix) — Full 3-page interactive report, data model, and DAX measures.
+* **Microsoft Excel Workbook:** [Ecommerce_Dashboard.xlsx](Ecommerce_Dashboard.xlsx) — Cleaned 6-table dataset, formulas, Pivot Tables, and reconciliation sheet.
+* **Full Showcase Report (PDF):** [Ecommerce_Delivery_RTO_Profitability_Dashboard.pdf](Ecommerce_Delivery_RTO_Profitability_Dashboard.pdf) — Complete report viewable directly in your browser.
+
 ## Key Reconciled Metrics
 * **Total Orders Analyzed:** 2,400
 * **Realized Revenue:** ₹21,21,739
